@@ -5,4 +5,8 @@ gadbad continue now
 bug fix
 new bug 
 bug ressolved
+<<<<<<< HEAD
 v6 added
+=======
+v7 added
+>>>>>>> 578f4b2 (feature7 added)
