@@ -4,3 +4,4 @@ This feature will gadbad everything from now.
 gadbad continue now
 bug fix
 new bug 
+bug ressolved
